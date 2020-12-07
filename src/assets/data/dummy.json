@@ -1,0 +1,161 @@
+[
+  {
+    "productId": "5fcb4ad3fc13ae7a56000000",
+    "title": "Blue Printed Round Neck Tshirt",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/6825458/2018/9/24/df02329e-6460-446b-9a14-5bef4d4a42131537788226046-HRX-by-Hrithik-Roshan-Men-Tshirts-2271537788225288-3.jpg",
+    "description": "Look effortlessly cool with the HRX Men's Athleisure T-shirt. The typographic slogan makes a smart style statement while the cotton fabric keeps you feeling cool all through the day.",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 100,
+    "rating": 5,
+    "locations": [
+      "AHEMEDABAD",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "TOP_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000001",
+    "title": "Doc Martin",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11743788/2020/8/4/19d90710-6a05-4e6b-b05d-6b8e7ee726771596513304199-Doc-Martin-Men-Orange--Grey-Colourblocked-Sneakers-279159651-1.jpg",
+    "description": "A pair of round-toe orange & grey sneakers, has regular styling, lace-up detail Mesh upper, Cushioned footbed Textured and patterned outsole",
+    "isLike": false,
+    "isDeleted": false,
+    "price": 1200,
+    "rating": 5,
+    "locations": [
+      "AHEMEDABAD",
+      "SURAT",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "FOOTER_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000002",
+    "title": "Men Tapered Fit Jeans",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/9162837/2019/4/2/78bff825-91d1-4ba1-bbf9-555a0631d0451554196303841-HIGHLANDER-Blue-5251554196302182-1.jpg",
+    "description": "Blue medium wash 5-pocket mid-rise jeans, clean look with heavy fade, has a button and zip closure, waistband with belt loops",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 714,
+    "rating": 5,
+    "locations": [
+      "AHEMEDABAD",
+      "SURAT",
+      "MUMBAI"
+    ],
+    "isStock": "OUT_OF_STOCK",
+    "productType": "BOTTOM_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000003",
+    "title": "Men Sweat Shirt",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10381447/2019/8/16/3aaf0f72-0cf4-40ef-a36c-c81e3186c3281565956541245-Campus-Sutra-Men-Sweatshirts-2091565956539708-1.jpg",
+    "description": "Grey and Black colourblocked sweatshirt, has a hood, one pocket, long sleeves, straight hem",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 611,
+    "rating": 3,
+    "locations": [
+      "AHEMEDABAD",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "TOP_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000004",
+    "title": "Men Ankle Length Jeans",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/5125961/2019/8/22/ceb7467c-984b-4bc7-b00d-28e9ff3fbe981566479340378-HIGHLANDER-Men-Olive-Green-Tapered-Fit-Ankle-Length-Chinos-2-1.jpg",
+    "description": "Olive Green solid mid-rise ankle length chinos, has a button closure, 4 pockets",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 911,
+    "rating": 4,
+    "locations": [
+      "SURAT",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "BOTTOM_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000005",
+    "title": "Men Blue Solid Denim Jacket",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/9/9/038cf4e6-34ba-4fa7-ae3d-3356192c9e0c1568048285665-1.jpg",
+    "description": "Blue and black colourblocked jacket, has a hooded, 4 pockets, zip closure, long sleeves, straight hem, and cotton lining",
+    "isLike": false,
+    "isDeleted": false,
+    "price": 1039,
+    "rating": 4,
+    "locations": [
+      "AHEMEDABAD"
+    ],
+    "isStock": "OUT_OF_STOCK",
+    "productType": "TOP_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000006",
+    "title": "Men Black Core Sports Shoe",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11952900/2020/10/16/40d4aae2-852e-41f9-b9f7-5f234de8e7921602843119244-HRX-by-Hrithik-Roshan-Men-Black-Mesh-Running-Shoes-471602843-1.jpg",
+    "description": "Product description: With a snug fit and cushioned comfort the HRX Men's Athleisure Shoes from the Core Sports Collection are ideal for a quick jog around the block as well as a casual Friday in the office.",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 2254,
+    "rating": 3,
+    "locations": [
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "FOOTER_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000007",
+    "title": "Men Solid Jogger",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12311944/2020/10/28/d3bd14ab-be6d-48df-a0ca-dc500b9700c11603884041825-Mast--Harbour-Men-Track-Pants-9761603884040485-2.jpg",
+    "description": "Teal blue printed detail mid-rise joggers, has a waistband with drawstring fastening, 3 pockets, and cuffed hems",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 1199,
+    "rating": 5,
+    "locations": [
+      "AHEMEDABAD",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "BOTTOM_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000008",
+    "title": "Men Off-White Solid Tailored Jacket",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/10/29/0820ba22-7b34-4003-8d68-b7bb0baddeeb1572370795739-5.jpg",
+    "description": "Off-white solid tailored jacket, has a hooded, 2 pockets, button closure, long sleeves, straight hem, and cotton lining",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 959,
+    "rating": 3,
+    "locations": [
+      "SURAT",
+      "MUMBAI"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "TOP_WEAR"
+  },
+  {
+    "productId": "5fcb4ad3fc13ae7a56000009",
+    "title": "Stretchable Cropped Jeans",
+    "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2948543/2018/3/30/11522394099790-HIGHLANDER-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-5171522394099590-1.jpg",
+    "description": "Black medium wash 5-pocket mid-rise jeans, clean look with light fade, has a button and zip closure",
+    "isLike": true,
+    "isDeleted": false,
+    "price": 869,
+    "rating": 5,
+    "locations": [
+      "SURAT"
+    ],
+    "isStock": "IN_STOCK",
+    "productType": "BOTTOM_WEAR"
+  }
+]
